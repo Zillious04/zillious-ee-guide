@@ -97,6 +97,18 @@
           "body": "Whilst looking into the hall from vultures aid, you will see 4 pelts. Hit each one according to how many deer skulls was on each totem in each location.\n\n<ul><li><strong>Front Right</strong> - Tyr's Foot</li>\n<li><strong>Back Right</strong> - Burial Grounds</li>\n<li><strong>Front Left</strong> - Core Foundry</li>\n<li><strong>Back Left</strong> - Eidskallen Landing</li></ul>"
         }
       ]
+    },
+    {
+      "id": "test",
+      "name": "Test",
+      "category": "grim",
+      "mapId": "ashes-of-the-damned",
+      "effect": "",
+      "reward": "",
+      "conditions": "",
+      "visualType": "default",
+      "visualValue": "",
+      "steps": []
     }
   ],
   "guides": [
