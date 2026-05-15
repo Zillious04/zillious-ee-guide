@@ -71,11 +71,32 @@
       "category": "grim",
       "mapId": "totenreich",
       "effect": "",
-      "reward": "Randomises your Lethal and Tactical equipment after each round",
-      "conditions": "",
+      "reward": "Equipment Roulette",
+      "conditions": "Randomises your Lethal and Tactical equipment after each round.",
       "visualType": "default",
       "visualValue": "",
-      "steps": []
+      "steps": [
+        {
+          "id": "step-l5jvl7a6z2a",
+          "title": "Reach Round 20+",
+          "body": "Start on any tier of <strong> Cursed Mode </strong> on Totenreich and reach <strong> Round 20 </strong>"
+        },
+        {
+          "id": "step-v1f0s76b93s",
+          "title": "Grab a Scoped Weapon",
+          "body": "Buy a Sniper from the wall or use the mystery box to get a scoped weapon."
+        },
+        {
+          "id": "step-u44809we1sb",
+          "title": "Locate the 4 Deer Skull Totems Outside the Map",
+          "body": "You have to look at a total of 4 totems and remember how many Deer skulls are attached to each Totem.\n\n<ul><li><strong>Eidskallen Landing</strong> - Stand opposite Rampage Inducer near barbed wire. The altar sits on the shoreline to the southwest.</li>\n\n<li><strong>Core Foundry / Dry Dock</strong> - Stand in Dry Dock just before the door to War Factory, look up at the cliff to the west.</li>\n\n<li><strong>Tyr's Foot</strong> - Stand with your back to Tyr's Foot look northwest toward the mountain.</li>\n\n<li><strong>Burial Grounds</strong> - From Skallen Market, head northeast and look up at the cliff edge above the Burial Grounds.</li></ul>"
+        },
+        {
+          "id": "step-v6qmwq3wmt9",
+          "title": "Throw Axe at Animal Pelts in Viking Hall",
+          "body": "Whilst looking into the hall from vultures aid, you will see 4 pelts. Hit each one according to how many deer skulls was on each totem in each location.\n\n<ul><li><strong>Front Right</strong> - Tyr's Foot</li>\n<li><strong>Back Right</strong> - Burial Grounds</li>\n<li><strong>Front Left</strong> - Core Foundry</li>\n<li><strong>Back Left</strong> - Eidskallen Landing</li></ul>"
+        }
+      ]
     }
   ],
   "guides": [
