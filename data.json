@@ -32,7 +32,7 @@
   "relics": [
     {
       "id": "samanthas-drawing",
-      "mapId": "ashes-of-the-damned",
+      "mapId": "astro-malorum",
       "name": "Samantha's Drawing",
       "icon": "🖍️",
       "category": "sinister",
@@ -79,7 +79,7 @@
         {
           "id": "step-l5jvl7a6z2a",
           "title": "Reach Round 20+",
-          "body": "Start on any tier of <strong> Cursed Mode </strong> on Totenreich and reach <strong> Round 20 </strong>"
+          "body": "Start on any tier of <strong> Cursed Mode </strong> on Totenreich and reach <strong> Round 20 </strong>."
         },
         {
           "id": "step-v1f0s76b93s",
