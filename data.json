@@ -69,7 +69,7 @@
       "id": "power-switch",
       "name": "Power Switch",
       "category": "grim",
-      "mapId": "paradox-junction",
+      "mapId": "totenreich",
       "effect": "",
       "reward": "Equipment Roulette",
       "conditions": "Randomises your Lethal and Tactical equipment after each round.",
