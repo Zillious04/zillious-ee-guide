@@ -1,0 +1,120 @@
+{
+  "maps": [
+    {
+      "id": "ashes-of-the-damned",
+      "name": "Ashes of the Damned",
+      "game": "Black Ops 7",
+      "visualType": "default",
+      "visualValue": ""
+    },
+    {
+      "id": "astro-malorum",
+      "name": "Astra Malorum",
+      "game": "Black Ops 7",
+      "visualType": "default",
+      "visualValue": ""
+    },
+    {
+      "id": "paradox-junction",
+      "name": "Paradox Junction",
+      "game": "Black Ops 7",
+      "visualType": "default",
+      "visualValue": ""
+    },
+    {
+      "id": "totenreich",
+      "name": "Totenreich",
+      "game": "Black Ops 7",
+      "visualType": "default",
+      "visualValue": ""
+    }
+  ],
+  "relics": [
+    {
+      "id": "samanthas-drawing",
+      "mapId": "astro-malorum",
+      "name": "Samantha's Drawing",
+      "icon": "🖍️",
+      "category": "sinister",
+      "effect": "A scrap of paper still warm from childish hands.",
+      "reward": "Weapon Roulette",
+      "conditions": "Your equipped weapons swap to random different weapons every round (maintaining PaP level and rarity).",
+      "steps": [
+        {
+          "id": "s1",
+          "title": "Find Chompy",
+          "body": "In a <strong>Tier I Cursed</strong> match, look for <strong>Chompy</strong> — a trash can that appears in each POI but is only active in one spot at a time. <strong>Melee</strong> it to open it up."
+        },
+        {
+          "id": "s2",
+          "title": "Feed Chompy one weapon of every rarity",
+          "body": "Feed weapons in this <strong>exact order</strong>:<ol><li><strong>Common</strong> — Your starting <strong>Jäger 45</strong></li><li><strong>Uncommon</strong> (green)</li><li><strong>Rare</strong> (blue)</li><li><strong>Epic</strong> (purple)</li><li><strong>Legendary</strong> (orange)</li></ol>",
+          "tip": "Uncommon and Rare weapons become unobtainable in later rounds — feed them to Chompy early before they disappear."
+        },
+        {
+          "id": "s3",
+          "title": "Feed Chompy the Ray Gun on Round 40+",
+          "body": "On or after <strong>Round 40</strong>, feed Chompy the <strong>Ray Gun</strong> or <strong>Ray Gun Mark II</strong>. This triggers the portal."
+        },
+        {
+          "id": "s4",
+          "title": "Start the trial",
+          "body": "The <strong>Relic Portal</strong> spawns near <strong>Yuri's Lab</strong> at Zarya Cosmodrome. Survive <strong>5 waves</strong> of zombies and HVTs. <strong>Ammo Caches and Max Ammos are disabled</strong> for the entire trial."
+        }
+      ],
+      "visualType": "emoji",
+      "visualValue": "🖍️"
+    },
+    {
+      "id": "power-switch",
+      "name": "Power Switch",
+      "category": "grim",
+      "mapId": "totenreich",
+      "effect": "",
+      "reward": "Randomises your Lethal and Tactical equipment after each round",
+      "conditions": "",
+      "visualType": "default",
+      "visualValue": "",
+      "steps": []
+    }
+  ],
+  "guides": [
+    {
+      "id": "ashes-main",
+      "mapId": "ashes-of-the-damned",
+      "name": "Ashes of the Damned Main Quest",
+      "type": "main",
+      "author": "community",
+      "description": "The complete main easter egg quest line. Restore power, collect key items, free Klaus, craft the Necrofluid Gauntlet, and take down the colossal Veytharion.",
+      "reward": "Veytharion Defeated",
+      "conditions": "Complete all main quest objectives in a single match. Rewards calling card, camo, and lore unlocks.",
+      "steps": [
+        {
+          "id": "m1",
+          "title": "Turn On the Power and Unlock Pack-a-Punch",
+          "body": "In the <strong>Janus Towers Plaza</strong> starting area, enter the white building and melee the floor grate to find <strong>T.E.D.D.'s Head</strong>. Exit west, find the pickup truck outside, and place T.E.D.D.'s Head onto <strong>Ol' Tessie</strong>.",
+          "tip": "Pack-a-Punch travels with Ol' Tessie wherever she goes."
+        },
+        {
+          "id": "m2",
+          "title": "Exit 115 Diner — Obtain the Abomination Carcass",
+          "body": "Drive southwest to <strong>Exit 115</strong> and buy the doors to <strong>Reba's Diner</strong> (1,250 Essence). Stay inside until the <strong>Cook zombie</strong> spawns. Kill him for the <strong>Freezer Key</strong>, then unlock the freezer.",
+          "warn": "The Cook only spawns and drops the key while you're inside the diner."
+        },
+        {
+          "id": "m3",
+          "title": "Upgrade Ol' Tessie with Abomination Beam",
+          "body": "Drive back to the <strong>Ashwood Garage</strong>, park Ol' Tessie inside, and interact with the crafting table. Three abomination heads on the front of the truck now shoot lasers (R1/RB)."
+        }
+      ],
+      "visualType": "default",
+      "visualValue": ""
+    }
+  ],
+  "games": [
+    {
+      "id": "black-ops-7",
+      "name": "Black Ops 7"
+    }
+  ]
+}
