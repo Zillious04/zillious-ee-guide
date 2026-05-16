@@ -145,13 +145,18 @@
         {
           "id": "step-ku0kfyq8b18",
           "title": "Grab The Cooking Pot",
-          "body": "While inside of <strong> Skallen Market </strong>, underneath one of the booths, near where the Zursa comes out during the Jotunn Star quest or behind the Mule Kick Perk-a-Cola. You need to pick up the <strong>  Cooking Pot  </strong> on the Floor.\n\n<img src=\"https://relicshunting.com/storage/relics/steps/images/Cz2iAHAbghIZ69gKVfFM17R3gwbUnlFkY8P4oXoi.png\" style=\"max-width:100%;border-radius:8px;margin:8px 0\">",
+          "body": "While inside of <strong> Skallen Market </strong>, underneath one of the booths, near where the Zursa comes out during the Jotunn Star quest or behind the Mule Kick Perk-a-Cola. You need to pick up the <strong>  Cooking Pot  </strong> on the Floor.\n\n<img src=\"https://i.postimg.cc/xjp1X15K/Cooking-Pot.png\" style=\"max-width:100%;border-radius:8px;margin:8px 0\">",
           "tip": "Easiest to pickup while laid down."
         },
         {
           "id": "step-23d42mii2pl",
           "title": "Place The Pot on the Fire Pit",
-          "body": "Take the <strong> Cooking Pot </strong> to the <strong> Viking Hall </strong> and place it on the <strong> Fire Pit </strong> opposite of <strong> Vultures Aid </strong>.\n\n<img src=\"https://relicshunting.com/storage/relics/steps/images/5gbWu7pe1IMsoKRytz2rSk8PCFmA6eNaZVn5FHFJ.png\" style=\"max-width:100%;border-radius:8px;margin:8px 0\">"
+          "body": "Take the <strong> Cooking Pot </strong> to the <strong> Viking Hall </strong> and place it on the <strong> Fire Pit </strong> opposite of <strong> Vultures Aid </strong>.\n\n<img src=\"https://i.postimg.cc/ZnQb2wnF/Place-Cooking-Pot.png\" style=\"max-width:100%;border-radius:8px;margin:8px 0\">"
+        },
+        {
+          "id": "step-1vgl4li27on",
+          "title": "Grab The Tankard",
+          "body": "Go to <strong> Eidskallen Square </strong>, and behind <strong> Loven's Antiquities </strong> and or the <strong> arsenal </strong>you can pickup a <strong> Tankard </strong> of Ale on top of a barrel.\n\n\n<img src=\"https://i.postimg.cc/5yr4TsyK/Screenshot-(144).png\" style=\"max-width:100%;border-radius:8px;margin:8px 0\">"
         }
       ],
       "order": 30
