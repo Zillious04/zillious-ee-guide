@@ -5,66 +5,35 @@
       "name": "Ashes of the Damned",
       "game": "Black Ops 7",
       "visualType": "default",
-      "visualValue": ""
+      "visualValue": "",
+      "order": 1
     },
     {
       "id": "astro-malorum",
       "name": "Astra Malorum",
       "game": "Black Ops 7",
       "visualType": "default",
-      "visualValue": ""
+      "visualValue": "",
+      "order": 2
     },
     {
       "id": "paradox-junction",
       "name": "Paradox Junction",
       "game": "Black Ops 7",
       "visualType": "default",
-      "visualValue": ""
+      "visualValue": "",
+      "order": 3
     },
     {
       "id": "totenreich",
       "name": "Totenreich",
       "game": "Black Ops 7",
       "visualType": "default",
-      "visualValue": ""
+      "visualValue": "",
+      "order": 4
     }
   ],
   "relics": [
-    {
-      "id": "samanthas-drawing",
-      "mapId": "ashes-of-the-damned",
-      "name": "Samantha's Drawing",
-      "icon": "🖍️",
-      "category": "sinister",
-      "effect": "A scrap of paper still warm from childish hands.",
-      "reward": "Weapon Roulette",
-      "conditions": "Your equipped weapons swap to random different weapons every round (maintaining PaP level and rarity).",
-      "steps": [
-        {
-          "id": "s1",
-          "title": "Find Chompy",
-          "body": "In a <strong>Tier I Cursed</strong> match, look for <strong>Chompy</strong> — a trash can that appears in each POI but is only active in one spot at a time. <strong>Melee</strong> it to open it up."
-        },
-        {
-          "id": "s2",
-          "title": "Feed Chompy one weapon of every rarity",
-          "body": "Feed weapons in this <strong>exact order</strong>:<ol><li><strong>Common</strong> — Your starting <strong>Jäger 45</strong></li><li><strong>Uncommon</strong> (green)</li><li><strong>Rare</strong> (blue)</li><li><strong>Epic</strong> (purple)</li><li><strong>Legendary</strong> (orange)</li></ol>",
-          "tip": "Uncommon and Rare weapons become unobtainable in later rounds — feed them to Chompy early before they disappear."
-        },
-        {
-          "id": "s3",
-          "title": "Feed Chompy the Ray Gun on Round 40+",
-          "body": "On or after <strong>Round 40</strong>, feed Chompy the <strong>Ray Gun</strong> or <strong>Ray Gun Mark II</strong>. This triggers the portal."
-        },
-        {
-          "id": "s4",
-          "title": "Start the trial",
-          "body": "The <strong>Relic Portal</strong> spawns near <strong>Yuri's Lab</strong> at Zarya Cosmodrome. Survive <strong>5 waves</strong> of zombies and HVTs. <strong>Ammo Caches and Max Ammos are disabled</strong> for the entire trial."
-        }
-      ],
-      "visualType": "emoji",
-      "visualValue": "🖍️"
-    },
     {
       "id": "power-switch",
       "name": "Power Switch",
@@ -79,24 +48,113 @@
         {
           "id": "step-l5jvl7a6z2a",
           "title": "Reach Round 20+",
-          "body": "Start on any tier of <strong> Cursed Mode </strong> on Totenreich and reach <strong> Round 20 </strong>."
+          "body": "Start on any tier of <strong> Cursed Mode </strong> on Totenreich and reach <strong> Round 20 </strong>.",
+          "order": 1
         },
         {
           "id": "step-v1f0s76b93s",
           "title": "Grab a Scoped Weapon",
-          "body": "Buy a Sniper from the wall or use the mystery box to get a scoped weapon."
+          "body": "Buy a Sniper from the wall or use the mystery box to get a scoped weapon.",
+          "order": 2
         },
         {
           "id": "step-u44809we1sb",
           "title": "Locate the 4 Deer Skull Totems Outside the Map",
-          "body": "You have to look at a total of 4 totems and remember how many Deer skulls are attached to each Totem.\n\n<ul><li><strong>Eidskallen Landing</strong> - Stand opposite Rampage Inducer near barbed wire. The altar sits on the shoreline to the southwest.</li>\n\n<li><strong>Core Foundry / Dry Dock</strong> - Stand in Dry Dock just before the door to War Factory, look up at the cliff to the west.</li>\n\n<li><strong>Tyr's Foot</strong> - Stand with your back to Tyr's Foot look northwest toward the mountain.</li>\n\n<li><strong>Burial Grounds</strong> - From Skallen Market, head northeast and look up at the cliff edge above the Burial Grounds.</li></ul>"
+          "body": "You have to look at a total of 4 totems and remember how many Deer skulls are attached to each Totem.\n\n<ul><li><strong>Eidskallen Landing</strong> - Stand opposite Rampage Inducer near barbed wire. The altar sits on the shoreline to the southwest.</li>\n\n<li><strong>Core Foundry / Dry Dock</strong> - Stand in Dry Dock just before the door to War Factory, look up at the cliff to the west.</li>\n\n<li><strong>Tyr's Foot</strong> - Stand with your back to Tyr's Foot look northwest toward the mountain.</li>\n\n<li><strong>Burial Grounds</strong> - From Skallen Market, head northeast and look up at the cliff edge above the Burial Grounds.</li></ul>",
+          "order": 3
         },
         {
           "id": "step-v6qmwq3wmt9",
           "title": "Throw Axe at Animal Pelts in Viking Hall",
-          "body": "Whilst looking into the hall from vultures aid, you will see 4 pelts. Hit each one according to how many deer skulls was on each totem in each location.\n\n<ul><li><strong>Front Right</strong> - Tyr's Foot</li>\n<li><strong>Back Right</strong> - Burial Grounds</li>\n<li><strong>Front Left</strong> - Core Foundry</li>\n<li><strong>Back Left</strong> - Eidskallen Landing</li></ul>"
+          "body": "Whilst looking into the hall from vultures aid, you will see 4 pelts. Hit each one according to how many deer skulls was on each totem in each location.\n\n<ul><li><strong>Front Right</strong> - Tyr's Foot</li>\n<li><strong>Back Right</strong> - Burial Grounds</li>\n<li><strong>Front Left</strong> - Core Foundry</li>\n<li><strong>Back Left</strong> - Eidskallen Landing</li></ul>\n\n<ul><img src=\"https://relicshunting.com/storage/guides/26/media/32594d92-3cdf-44ce-ba3c-466478cecf00.webp\" style=\"max-width:100%;border-radius:8px;margin:8px 0\">",
+          "order": 4
         }
-      ]
+      ],
+      "order": 2
+    },
+    {
+      "id": "samanthas-drawing",
+      "mapId": "ashes-of-the-damned",
+      "name": "Samantha's Drawing",
+      "icon": "🖍️",
+      "category": "sinister",
+      "effect": "A scrap of paper still warm from childish hands.",
+      "reward": "Weapon Roulette",
+      "conditions": "Your equipped weapons swap to random different weapons every round (maintaining PaP level and rarity).",
+      "steps": [
+        {
+          "id": "s1",
+          "title": "Find Chompy",
+          "body": "In a <strong>Tier I Cursed</strong> match, look for <strong>Chompy</strong> — a trash can that appears in each POI but is only active in one spot at a time. <strong>Melee</strong> it to open it up.",
+          "order": 1
+        },
+        {
+          "id": "s2",
+          "title": "Feed Chompy one weapon of every rarity",
+          "body": "Feed weapons in this <strong>exact order</strong>:<ol><li><strong>Common</strong> — Your starting <strong>Jäger 45</strong></li><li><strong>Uncommon</strong> (green)</li><li><strong>Rare</strong> (blue)</li><li><strong>Epic</strong> (purple)</li><li><strong>Legendary</strong> (orange)</li></ol>",
+          "tip": "Uncommon and Rare weapons become unobtainable in later rounds — feed them to Chompy early before they disappear.",
+          "order": 2
+        },
+        {
+          "id": "s3",
+          "title": "Feed Chompy the Ray Gun on Round 40+",
+          "body": "On or after <strong>Round 40</strong>, feed Chompy the <strong>Ray Gun</strong> or <strong>Ray Gun Mark II</strong>. This triggers the portal.",
+          "order": 3
+        },
+        {
+          "id": "s4",
+          "title": "Start the trial",
+          "body": "The <strong>Relic Portal</strong> spawns near <strong>Yuri's Lab</strong> at Zarya Cosmodrome. Survive <strong>5 waves</strong> of zombies and HVTs. <strong>Ammo Caches and Max Ammos are disabled</strong> for the entire trial.",
+          "order": 4
+        }
+      ],
+      "visualType": "emoji",
+      "visualValue": "🖍️",
+      "order": 10
+    },
+    {
+      "id": "stuffed-elephant",
+      "name": "Stuffed Elephant",
+      "category": "sinister",
+      "mapId": "totenreich",
+      "effect": "",
+      "reward": "Delayed Regeneration",
+      "conditions": "Increases the delay before your health starts regenerating after taking damage.",
+      "visualType": "default",
+      "visualValue": "",
+      "steps": [],
+      "order": 20
+    },
+    {
+      "id": "dancing-arnie",
+      "name": "Dancing Arnie",
+      "category": "sinister",
+      "mapId": "totenreich",
+      "effect": "",
+      "reward": "Classic Wonderfizz",
+      "conditions": "Makes all Perk-a-Colas give random Perk-a-Colas when bought.",
+      "visualType": "default",
+      "visualValue": "",
+      "steps": [
+        {
+          "id": "step-393p4mt1a60",
+          "title": "Start Match with Tier 1 Cursed Mode",
+          "body": "Start on <strong> Tier 1 </strong> of <strong> Cursed Mode </strong> on Totenreich.",
+          "tip": "Grab the Jotunn Star and prepare to get to <strong> round 40 </strong>. <strong> Round 40 </strong> not required until later."
+        },
+        {
+          "id": "step-ku0kfyq8b18",
+          "title": "Grab The Cooking Pot",
+          "body": "While inside of <strong> Skallen Market </strong>, underneath one of the booths, near where the Zursa comes out during the Jotunn Star quest or behind the Mule Kick Perk-a-Cola. You need to pick up the <strong>  Cooking Pot  </strong> on the Floor.\n\n<img src=\"https://relicshunting.com/storage/relics/steps/images/Cz2iAHAbghIZ69gKVfFM17R3gwbUnlFkY8P4oXoi.png\" style=\"max-width:100%;border-radius:8px;margin:8px 0\">",
+          "tip": "Easiest to pickup while laid down."
+        },
+        {
+          "id": "step-23d42mii2pl",
+          "title": "Place The Pot on the Fire Pit",
+          "body": "Take the <strong> Cooking Pot </strong> to the <strong> Viking Hall </strong> and place it on the <strong> Fire Pit </strong> opposite of <strong> Vultures Aid </strong>.\n\n<img src=\"https://relicshunting.com/storage/relics/steps/images/5gbWu7pe1IMsoKRytz2rSk8PCFmA6eNaZVn5FHFJ.png\" style=\"max-width:100%;border-radius:8px;margin:8px 0\">"
+        }
+      ],
+      "order": 30
     }
   ],
   "guides": [
@@ -114,28 +172,33 @@
           "id": "m1",
           "title": "Turn On the Power and Unlock Pack-a-Punch",
           "body": "In the <strong>Janus Towers Plaza</strong> starting area, enter the white building and melee the floor grate to find <strong>T.E.D.D.'s Head</strong>. Exit west, find the pickup truck outside, and place T.E.D.D.'s Head onto <strong>Ol' Tessie</strong>.",
-          "tip": "Pack-a-Punch travels with Ol' Tessie wherever she goes."
+          "tip": "Pack-a-Punch travels with Ol' Tessie wherever she goes.",
+          "order": 1
         },
         {
           "id": "m2",
           "title": "Exit 115 Diner — Obtain the Abomination Carcass",
           "body": "Drive southwest to <strong>Exit 115</strong> and buy the doors to <strong>Reba's Diner</strong> (1,250 Essence). Stay inside until the <strong>Cook zombie</strong> spawns. Kill him for the <strong>Freezer Key</strong>, then unlock the freezer.",
-          "warn": "The Cook only spawns and drops the key while you're inside the diner."
+          "warn": "The Cook only spawns and drops the key while you're inside the diner.",
+          "order": 2
         },
         {
           "id": "m3",
           "title": "Upgrade Ol' Tessie with Abomination Beam",
-          "body": "Drive back to the <strong>Ashwood Garage</strong>, park Ol' Tessie inside, and interact with the crafting table. Three abomination heads on the front of the truck now shoot lasers (R1/RB)."
+          "body": "Drive back to the <strong>Ashwood Garage</strong>, park Ol' Tessie inside, and interact with the crafting table. Three abomination heads on the front of the truck now shoot lasers (R1/RB).",
+          "order": 3
         }
       ],
       "visualType": "default",
-      "visualValue": ""
+      "visualValue": "",
+      "order": 1
     }
   ],
   "games": [
     {
       "id": "black-ops-7",
-      "name": "Black Ops 7"
+      "name": "Black Ops 7",
+      "order": 1
     }
   ]
 }
