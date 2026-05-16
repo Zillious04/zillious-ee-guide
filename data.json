@@ -145,7 +145,7 @@
         {
           "id": "step-ku0kfyq8b18",
           "title": "Grab The Cooking Pot",
-          "body": "While inside of <strong> Skallen Market </strong>, underneath one of the booths, near where the Zursa comes out during the Jotunn Star quest or behind the Mule Kick Perk-a-Cola. You need to pick up the <strong>  Cooking Pot  </strong> on the Floor.\n\n<img src=\"https://i.postimg.cc/xjp1X15K/Cooking-Pot.png\" style=\"max-width:100%;border-radius:8px;margin:8px 0\">",
+          "body": "While inside of <strong> Skallen Market </strong>, underneath one of the booths, near where the Zursa comes out during the Jotunn Star quest or behind the <strong> Mule Kick </strong> Perk-a-Cola. You need to pick up the <strong>  Cooking Pot  </strong> on the Floor.\n\n<img src=\"https://i.postimg.cc/xjp1X15K/Cooking-Pot.png\" style=\"max-width:100%;border-radius:8px;margin:8px 0\">",
           "tip": "Easiest to pickup while laid down."
         },
         {
@@ -155,8 +155,15 @@
         },
         {
           "id": "step-1vgl4li27on",
-          "title": "Grab The Tankard",
-          "body": "Go to <strong> Eidskallen Square </strong>, and behind <strong> Loven's Antiquities </strong> and or the <strong> arsenal </strong>you can pickup a <strong> Tankard </strong> of Ale on top of a barrel.\n\n\n<img src=\"https://i.postimg.cc/5yr4TsyK/Screenshot-(144).png\" style=\"max-width:100%;border-radius:8px;margin:8px 0\">"
+          "title": "Grab The Tankard and Add to The Cooking Pot",
+          "body": "Go to <strong> Eidskallen Square </strong>, and behind <strong> Loven's Antiquities </strong> and or the <strong> Arsenal </strong>you can pickup a <strong> Tankard </strong> of Ale on top of a barrel. Bring this back to the <strong> Cooking Pot </strong> and Press Interact to add it to the <strong> Cooking Pot </strong>.\n\n\n<img src=\"https://i.postimg.cc/5yr4TsyK/Screenshot-(144).png\" style=\"max-width:100%;border-radius:8px;margin:8px 0\">"
+        },
+        {
+          "id": "step-nt5dgazy8i8",
+          "title": "Grab The Chilly Chunks and Add to The Cooking Pot",
+          "body": "Go to <strong> Storm Bridge </strong>, and behind the Truck you can pickup the <strong> Chilly Chunks </strong> . Bring this back to the <strong> Cooking Pot </strong> and Press Interact to add it to the <strong> Cooking Pot </strong>.\n\n<img src=\"https://i.postimg.cc/BvMQ0Swd/Chilly_Chunks.png\" style=\"max-width:100%;border-radius:8px;margin:8px 0\">",
+          "tip": "After you place the Chilly Chunks in the Cooking Pot you can grenade the Truck next to the Chilly Chunks spawn location and get another for the Jotunn Star.",
+          "warn": "Ensure you do the Chilly Chunks before the wonder weapon. If you do the wonder weapon first you can no longer do this step."
         }
       ],
       "order": 30
