@@ -164,6 +164,33 @@
           "body": "Go to <strong> Storm Bridge </strong>, and behind the Truck you can pickup the <strong> Chilly Chunks </strong> . Bring this back to the <strong> Cooking Pot </strong> and Press Interact to add it to the <strong> Cooking Pot </strong>.\n\n<img src=\"https://i.postimg.cc/BvMQ0Swd/Chilly_Chunks.png\" style=\"max-width:100%;border-radius:8px;margin:8px 0\">",
           "tip": "After you place the Chilly Chunks in the Cooking Pot you can grenade the Truck next to the Chilly Chunks spawn location and get another for the Jotunn Star.",
           "warn": "Ensure you do the Chilly Chunks before the wonder weapon. If you do the wonder weapon first you can no longer do this step."
+        },
+        {
+          "id": "step-2vv9yrssszc",
+          "title": "Grab The Red Lobster and Add to The Cooking Pot",
+          "body": "Use the <strong> Flammenfalle Fire Trap </strong> to fully kill a Necropincer. The <strong> Red Lobster </strong> will drop from the Necropincer if it deals the finishing blow. Bring this back to the <strong> Cooking Pot </strong> and Press Interact to add it to the <strong> Cooking Pot </strong>."
+        },
+        {
+          "id": "step-qq23vd7w32e",
+          "title": "Reach Round 40",
+          "body": "Fight your way through to reach <strong> Round 40 </strong>."
+        },
+        {
+          "id": "step-60hiqthykw3",
+          "title": "Fish on a Special Round",
+          "body": "On a <strong> Special Round </strong>  after <strong> round 40</strong>, you can now fish at <strong> Fishery Island </strong> to obtain the <strong> Red Fish </strong>. Bring this back to the <strong> Cooking Pot </strong> and Press Interact to add it to the <strong> Cooking Pot </strong>.",
+          "tip": "Easiest to do at end of the special round."
+        },
+        {
+          "id": "step-opa9c80400d",
+          "title": "Feed Mr Peeks",
+          "body": "Once the <strong> Red Fish </strong> is added, <strong> Mr Peeks </strong> will spawn on top of the <strong> Cooking Pot </strong>. Use the <strong> Jotunn Star </strong> to get kills next to <strong> Mr Peeks </strong> to feed him.",
+          "tip": "Takes around 100 souls to fill up Mr Peeks."
+        },
+        {
+          "id": "step-1sorv3v5klw",
+          "title": "Enter Relic Trial",
+          "body": ""
         }
       ],
       "order": 30
