@@ -133,8 +133,8 @@
       "effect": "",
       "reward": "Classic Wonderfizz",
       "conditions": "Makes all Perk-a-Colas give random Perk-a-Colas when bought.",
-      "visualType": "default",
-      "visualValue": "",
+      "visualType": "image",
+      "visualValue": "https://i.postimg.cc/XYnR0TBL/Dancing-Arnie.webp",
       "steps": [
         {
           "id": "step-393p4mt1a60",
@@ -190,7 +190,14 @@
         {
           "id": "step-1sorv3v5klw",
           "title": "Enter Relic Trial",
-          "body": ""
+          "body": "After <strong>Mr Peeks </strong> disappears, go to <strong>Fishery Island </strong> , inside the shop above <strong>Pack-a-Punch</strong> . The <strong>Relic Trial Portal </strong> should appear.",
+          "tip": "Bring the Jotunn Star with Melee Macchiato and Pack-a-Punch tier 3.",
+          "warn": "Zombies can only be damaged with melee during the trial."
+        },
+        {
+          "id": "step-dbzlm0of9iz",
+          "title": "Complete the Trial",
+          "body": "Survive multiple waves of zombies and HVT's and the relic is done."
         }
       ],
       "order": 30
