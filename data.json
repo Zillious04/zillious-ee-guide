@@ -411,6 +411,164 @@
           "title": "Pickup Pufferfish",
           "body": "Once the cutscene is done a small cuboard door will open up close to the mortar in the Kitchen. Pickup the Pufferfish inside.",
           "order": 220
+        },
+        {
+          "id": "step-ffsq7vqu5fs",
+          "title": "Light The Lanterns",
+          "body": ""
+        },
+        {
+          "id": "step-jt4dlgwuiy1",
+          "title": "Interact With Ghost",
+          "body": ""
+        },
+        {
+          "id": "step-leosfjyutmx",
+          "title": "Pickup Fox Mask",
+          "body": ""
+        },
+        {
+          "id": "step-mxxjmqhv765",
+          "title": "Play Simon Says",
+          "body": ""
+        },
+        {
+          "id": "step-33tk351vp7c",
+          "title": "Follow the Mask and Shoot down the mask and collect evidence",
+          "body": ""
+        },
+        {
+          "id": "step-fciw7k9wlnc",
+          "title": "Deliver all Evidence so far into the Meditation Room",
+          "body": ""
+        },
+        {
+          "id": "step-6dn8y3px4ok",
+          "title": "Collect the Coin Purse",
+          "body": ""
+        },
+        {
+          "id": "step-jqf5egrxh0k",
+          "title": "Interact with Coin purse and water 3 Plants in Flower Garden",
+          "body": ""
+        },
+        {
+          "id": "step-xxh1xbixtqt",
+          "title": "Kill the Gardener",
+          "body": ""
+        },
+        {
+          "id": "step-2nnpbb2yajv",
+          "title": "Melee Tomato in Kitchens",
+          "body": ""
+        },
+        {
+          "id": "step-p8z44ymz9pk",
+          "title": "Kill Tomato Zombie in Staging Area",
+          "body": ""
+        },
+        {
+          "id": "step-nk9jc6gzg93",
+          "title": "Kill the Merchant",
+          "body": ""
+        },
+        {
+          "id": "step-nq9en8izu4i",
+          "title": "Throw 3 Decoys at 3 Windows",
+          "body": ""
+        },
+        {
+          "id": "step-255ns6q07kv",
+          "title": "Kill the Noble with his own grenades",
+          "body": ""
+        },
+        {
+          "id": "step-xgxo58n0rzv",
+          "title": "Deliver the Evidence to the Meditation Room",
+          "body": ""
+        },
+        {
+          "id": "step-qag3x5f0u60",
+          "title": "Deliver the Evidence to the Meditation Room",
+          "body": ""
+        },
+        {
+          "id": "step-q5m0kcx1tjx",
+          "title": "Pickup Sake Shards in 3rd Painting",
+          "body": ""
+        },
+        {
+          "id": "step-dhw1pmx2e8p",
+          "title": "Repair Sake Cup in Tea Garden",
+          "body": "",
+          "warn": "Progress Round to Pickup"
+        },
+        {
+          "id": "step-s5t1qvg2rhv",
+          "title": "Place Sake cup in 3 Areas",
+          "body": ""
+        },
+        {
+          "id": "step-6t8ieek3452",
+          "title": "Kill the Hellhound",
+          "body": ""
+        },
+        {
+          "id": "step-xn4qd2r3d0q",
+          "title": "Collect the Tea Whisk",
+          "body": ""
+        },
+        {
+          "id": "step-jov4tzh3lv6",
+          "title": "Deliver all Evidence so far into the Meditation Room",
+          "body": ""
+        },
+        {
+          "id": "step-9id3o2g53vm",
+          "title": "Collect Small Statue in Lava",
+          "body": "",
+          "warn": "Lava has to be cooled down in rock formation"
+        },
+        {
+          "id": "step-goqvh0r6oh4",
+          "title": "Interact with Clock",
+          "body": "Near PHD there is a small clock, interact with it and memorise the 4 numbers it flashes.",
+          "warn": "Next round will be assault round"
+        },
+        {
+          "id": "step-uw8ark072dq",
+          "title": "Match flags to symbols",
+          "body": ""
+        },
+        {
+          "id": "step-jjfngmf7jcb",
+          "title": "Collect Crest Medallion",
+          "body": ""
+        },
+        {
+          "id": "step-almk1z2889q",
+          "title": "1st Evidence",
+          "body": "Always Antique Comb"
+        },
+        {
+          "id": "step-xwi8abn8run",
+          "title": "2nd Evidence",
+          "body": "Next, you'll need to figure out the identity of the accomplice. To do this, activate all Ghostly Riflemen Traps on the map until a blue ghost of one of the riflemen appears (near any of the traps). Listen to what they have to say to figure out who the accomplice was.\n\nThe ghost will mention one of the following: Gardener, Merchant, or Courtier. The first two are refer to their elite counterparts that you fought earlier. The Courtier refers to the Noble."
+        },
+        {
+          "id": "step-n44158a99w1",
+          "title": "3rd Evidence",
+          "body": "Head over to the evidence wall and re-read the Death Records note that you got earlier. The type of poison used will depend on what the doctor wrote as the cause of death:\n　① Pufferfish: \"...contaminated or noxious food and showed signs of emesis.\"\n　② Plum Pit: \"...contaminated or noxious plant.\"\n　③ Monkshood Flower: \"...showed evidence of paralysis\"\n\nOnce you've figured out the type of Poison used, pick up the right evidence item then place it in front of the 3rd Portrait."
+        },
+        {
+          "id": "step-elmfyhua1f7",
+          "title": "4th Evidence",
+          "body": "The 4th Portrait indicates where the Shogun ingested the poison. To determine which evidence item to place, refer to the guide below:\n　① Koi (Fish) Painting: Tea Whisk\n　② Mountain Painting: Horse Statuette\n　③ Bird Painting: Calligraphy Brush"
+        },
+        {
+          "id": "step-wj6ush8ahm1",
+          "title": "5th Evidence",
+          "body": "Always Crest Medallion"
         }
       ],
       "order": 2
