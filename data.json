@@ -4,32 +4,32 @@
       "id": "ashes-of-the-damned",
       "name": "Ashes of the Damned",
       "game": "Black Ops 7",
-      "visualType": "default",
-      "visualValue": "",
+      "visualType": "image",
+      "visualValue": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdetonated.com%2Fblack-ops-7-zombies-ashes-of-the-damned-launch-map-locations-story-and-gameplay%2Fw_1536%2Fhttps%3A%2F%2Fdetonated.com%2Fwp-content%2Fuploads%2F2025%2F09%2Fimg_8626-1536x864.jpg&f=1&nofb=1&ipt=bfaee7bbe852f2d9c40d215b88ae6fd9da5edb0ad36f42d430e161211391f818",
       "order": 1
     },
     {
       "id": "astro-malorum",
       "name": "Astra Malorum",
       "game": "Black Ops 7",
-      "visualType": "default",
-      "visualValue": "",
+      "visualType": "image",
+      "visualValue": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fboostmatch.gg%2F_next%2Fimage%3Furl%3Dhttps%3A%252F%252Fboostmatch-storage-prod.s3.amazonaws.com%252Fblog%252Fattachments%252F4328355e-ed78-4ee7-811b-5666ab9636d3.jpg%26w%3D3840%26q%3D100&f=1&nofb=1&ipt=e07287120d03bc89eafbe3129763798dfbfd7f2539a02f63b3f2e77ec13f2392",
       "order": 2
     },
     {
       "id": "paradox-junction",
       "name": "Paradox Junction",
       "game": "Black Ops 7",
-      "visualType": "default",
-      "visualValue": "",
+      "visualType": "image",
+      "visualValue": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3-images.playhub.com%2Farticleimage%2F019ce101-63ba-72ef-ab68-1fb7ed4af62f%2FagUB4MpwnfuOTuqY6c9sHfzOoXvEyFqpEqStz0LJ.jpg&f=1&nofb=1&ipt=7746c13538f89994fd879e6bb54f540b4d37b2ed5c04348e2a01ea41e68f5b0f",
       "order": 3
     },
     {
       "id": "totenreich",
       "name": "Totenreich",
       "game": "Black Ops 7",
-      "visualType": "default",
-      "visualValue": "",
+      "visualType": "image",
+      "visualValue": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.gamespot.com%2Fa%2Fuploads%2Fscale_super%2F1639%2F16394540%2F4691327-bo7-s03-reloaded-announcement-01toten.jpg&f=1&nofb=1&ipt=4deb443f2fffa0a972c29983964d246c8d5ad144da6a42e29569002cc57c5555",
       "order": 4
     }
   ],
@@ -140,64 +140,75 @@
           "id": "step-393p4mt1a60",
           "title": "Start Match with Tier 1 Cursed Mode",
           "body": "Start on <strong> Tier 1 </strong> of <strong> Cursed Mode </strong> on Totenreich.",
-          "tip": "Grab the Jotunn Star and prepare to get to <strong> round 40 </strong>. <strong> Round 40 </strong> not required until later."
+          "tip": "Grab the Jotunn Star and prepare to get to <strong> round 40 </strong>. <strong> Round 40 </strong> not required until later.",
+          "order": 1
         },
         {
           "id": "step-ku0kfyq8b18",
           "title": "Grab The Cooking Pot",
           "body": "While inside of <strong> Skallen Market </strong>, underneath one of the booths, near where the Zursa comes out during the Jotunn Star quest or behind the <strong> Mule Kick </strong> Perk-a-Cola. You need to pick up the <strong>  Cooking Pot  </strong> on the Floor.\n\n<img src=\"https://i.postimg.cc/xjp1X15K/Cooking-Pot.png\" style=\"max-width:100%;border-radius:8px;margin:8px 0\">",
-          "tip": "Easiest to pickup while laid down."
+          "tip": "Easiest to pickup while laid down.",
+          "order": 2
         },
         {
           "id": "step-23d42mii2pl",
           "title": "Place The Pot on the Fire Pit",
-          "body": "Take the <strong> Cooking Pot </strong> to the <strong> Viking Hall </strong> and place it on the <strong> Fire Pit </strong> opposite of <strong> Vultures Aid </strong>.\n\n<img src=\"https://i.postimg.cc/ZnQb2wnF/Place-Cooking-Pot.png\" style=\"max-width:100%;border-radius:8px;margin:8px 0\">"
+          "body": "Take the <strong> Cooking Pot </strong> to the <strong> Viking Hall </strong> and place it on the <strong> Fire Pit </strong> opposite of <strong> Vultures Aid </strong>.\n\n<img src=\"https://i.postimg.cc/ZnQb2wnF/Place-Cooking-Pot.png\" style=\"max-width:100%;border-radius:8px;margin:8px 0\">",
+          "order": 3
         },
         {
           "id": "step-1vgl4li27on",
           "title": "Grab The Tankard and Add to The Cooking Pot",
-          "body": "Go to <strong> Eidskallen Square </strong>, and behind <strong> Loven's Antiquities </strong> and or the <strong> Arsenal </strong>you can pickup a <strong> Tankard </strong> of Ale on top of a barrel. Bring this back to the <strong> Cooking Pot </strong> and Press Interact to add it to the <strong> Cooking Pot </strong>.\n\n\n<img src=\"https://i.postimg.cc/5yr4TsyK/Screenshot-(144).png\" style=\"max-width:100%;border-radius:8px;margin:8px 0\">"
+          "body": "Go to <strong> Eidskallen Square </strong>, and behind <strong> Loven's Antiquities </strong> and or the <strong> Arsenal </strong>you can pickup a <strong> Tankard </strong> of Ale on top of a barrel. Bring this back to the <strong> Cooking Pot </strong> and Press Interact to add it to the <strong> Cooking Pot </strong>.\n\n\n<img src=\"https://i.postimg.cc/5yr4TsyK/Screenshot-(144).png\" style=\"max-width:100%;border-radius:8px;margin:8px 0\">",
+          "order": 4
         },
         {
           "id": "step-nt5dgazy8i8",
           "title": "Grab The Chilly Chunks and Add to The Cooking Pot",
           "body": "Go to <strong> Storm Bridge </strong>, and behind the Truck you can pickup the <strong> Chilly Chunks </strong> . Bring this back to the <strong> Cooking Pot </strong> and Press Interact to add it to the <strong> Cooking Pot </strong>.\n\n<img src=\"https://i.postimg.cc/BvMQ0Swd/Chilly_Chunks.png\" style=\"max-width:100%;border-radius:8px;margin:8px 0\">",
           "tip": "After you place the Chilly Chunks in the Cooking Pot you can grenade the Truck next to the Chilly Chunks spawn location and get another for the Jotunn Star.",
-          "warn": "Ensure you do the Chilly Chunks before the wonder weapon. If you do the wonder weapon first you can no longer do this step."
+          "warn": "Ensure you do the Chilly Chunks before the wonder weapon. If you do the wonder weapon first you can no longer do this step.",
+          "order": 5
         },
         {
           "id": "step-2vv9yrssszc",
           "title": "Grab The Red Lobster and Add to The Cooking Pot",
-          "body": "Use the <strong> Flammenfalle Fire Trap </strong> to fully kill a Necropincer. The <strong> Red Lobster </strong> will drop from the Necropincer if it deals the finishing blow. Bring this back to the <strong> Cooking Pot </strong> and Press Interact to add it to the <strong> Cooking Pot </strong>."
+          "body": "Use the <strong> Flammenfalle Fire Trap </strong> to fully kill a Necropincer. The <strong> Red Lobster </strong> will drop from the Necropincer if it deals the finishing blow. Bring this back to the <strong> Cooking Pot </strong> and Press Interact to add it to the <strong> Cooking Pot </strong>.",
+          "order": 6
         },
         {
           "id": "step-qq23vd7w32e",
           "title": "Reach Round 40",
-          "body": "Fight your way through to reach <strong> Round 40 </strong>."
+          "body": "Fight your way through to reach <strong> Round 40 </strong>.",
+          "order": 7
         },
         {
           "id": "step-60hiqthykw3",
           "title": "Fish on a Special Round",
           "body": "On a <strong> Special Round </strong>  after <strong> round 40</strong>, you can now fish at <strong> Fishery Island </strong> to obtain the <strong> Red Fish </strong>. Bring this back to the <strong> Cooking Pot </strong> and Press Interact to add it to the <strong> Cooking Pot </strong>.",
-          "tip": "Easiest to do at end of the special round."
+          "tip": "Easiest to do at end of the special round.",
+          "order": 8
         },
         {
           "id": "step-opa9c80400d",
           "title": "Feed Mr Peeks",
           "body": "Once the <strong> Red Fish </strong> is added, <strong> Mr Peeks </strong> will spawn on top of the <strong> Cooking Pot </strong>. Use the <strong> Jotunn Star </strong> to get kills next to <strong> Mr Peeks </strong> to feed him.",
-          "tip": "Takes around 100 souls to fill up Mr Peeks."
+          "tip": "Takes around 100 souls to fill up Mr Peeks.",
+          "order": 9
         },
         {
           "id": "step-1sorv3v5klw",
           "title": "Enter Relic Trial",
           "body": "After <strong>Mr Peeks </strong> disappears, go to <strong>Fishery Island </strong> , inside the shop above <strong>Pack-a-Punch</strong> . The <strong>Relic Trial Portal </strong> should appear.",
           "tip": "Bring the Jotunn Star with Melee Macchiato and Pack-a-Punch tier 3.",
-          "warn": "Zombies can only be damaged with melee during the trial."
+          "warn": "Zombies can only be damaged with melee during the trial.",
+          "order": 10
         },
         {
           "id": "step-dbzlm0of9iz",
           "title": "Complete the Trial",
-          "body": "Survive multiple waves of zombies and HVT's and the relic is done."
+          "body": "Survive multiple waves of zombies and HVT's and the relic is done.",
+          "order": 11
         }
       ],
       "order": 30
