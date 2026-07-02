@@ -569,6 +569,26 @@
           "id": "step-wj6ush8ahm1",
           "title": "5th Evidence",
           "body": "Always Crest Medallion"
+        },
+        {
+          "id": "step-asp34mzm7sd",
+          "title": "Time of Death evidence",
+          "body": "Since you now know what Poison was used, read the Known Toxins note to figure out the time of poisoning.\n　① Pufferfish: 3 hours\n　② Plum Pit: 4 hours\n　③ Monkshood Flower: 2 hours\n\nNext, re-read the Death Records to determine the time of death. The time will be indicated by an animal (e.g., Hour of the Boar).\n\nWith the poison's activation time and time of death figured out, head over to the Zodiac Clock beside the 1st Portrait. Set it to the the correct time indicating when the Shogun was poisoned.\n\nTo make it easy, set the Zodiac Clock to match the time of death (e.g., have the dial point to the Boar icon if the Hour of the Boar was the time of death). Then, subtract 2/3/4 places counter-clockwise depending on the poison used."
+        },
+        {
+          "id": "step-958on7bptpq",
+          "title": "Defeat Onryo Mini-Boss",
+          "body": ""
+        },
+        {
+          "id": "step-ko3tt08qph7",
+          "title": "Interact with the Incense Burners",
+          "body": ""
+        },
+        {
+          "id": "step-vswq6nurj9q",
+          "title": "Use the Fast Travel at Pack a Punch to travel to Boss Fight",
+          "body": ""
         }
       ],
       "order": 2
