@@ -277,16 +277,16 @@
           "order": 10
         },
         {
+          "id": "step-z9wrvugeql6",
+          "title": "Feed the World Seed Zombie Souls",
+          "body": "",
+          "order": 20
+        },
+        {
           "id": "step-uhvmtsk87eu",
           "title": "Acquire Shogun's Hanko",
           "body": "Kill the Oni that spawns in the War Room and pickup the Shogun's Hanko. Deliver the Hanko into the doorway.",
           "tip": "Pickup the green shards and note to the left of the doorway.",
-          "order": 20
-        },
-        {
-          "id": "step-z9wrvugeql6",
-          "title": "Feed the World Seed Zombie Souls",
-          "body": "",
           "order": 30
         },
         {
@@ -356,239 +356,287 @@
           "order": 130
         },
         {
-          "id": "step-dfx0sxz43k7",
-          "title": "Pickup Empty Pouch",
-          "body": "Shoot a charged shot of the wonder weapon above the ammo box in the Training Area on the broken beam jutting outward.",
+          "id": "step-kz2j357x9ax",
+          "title": "Pickup Wonder Weapon",
+          "body": "",
           "order": 140
         },
         {
-          "id": "step-2vh0ft86g76",
-          "title": "Pickup Monkshood Bud",
-          "body": "Pickup the Monkshood Bud in the Flower Garden next to one of the broken bridges, to the right hand side of the workstation.",
-          "tip": "Can be picked up anytime",
+          "id": "step-ffsq7vqu5fs",
+          "title": "Light The Lanterns",
+          "body": "",
           "order": 150
+        },
+        {
+          "id": "step-jt4dlgwuiy1",
+          "title": "Interact With Ghost",
+          "body": "",
+          "order": 160
+        },
+        {
+          "id": "step-leosfjyutmx",
+          "title": "Pickup Fox Mask",
+          "body": "",
+          "order": 170
+        },
+        {
+          "id": "step-mxxjmqhv765",
+          "title": "Play Simon Says",
+          "body": "",
+          "order": 180
+        },
+        {
+          "id": "step-33tk351vp7c",
+          "title": "Follow the Mask and Shoot down the mask and collect evidence",
+          "body": "",
+          "order": 190
+        },
+        {
+          "id": "step-fciw7k9wlnc",
+          "title": "Deliver all Evidence so far into the Meditation Room",
+          "body": "",
+          "order": 200
+        },
+        {
+          "id": "step-6dn8y3px4ok",
+          "title": "Collect the Coin Purse",
+          "body": "",
+          "order": 210
+        },
+        {
+          "id": "step-jqf5egrxh0k",
+          "title": "Interact with Coin purse and water 3 Plants in Flower Garden",
+          "body": "",
+          "order": 220
+        },
+        {
+          "id": "step-xxh1xbixtqt",
+          "title": "Kill the Gardener",
+          "body": "",
+          "order": 230
+        },
+        {
+          "id": "step-2nnpbb2yajv",
+          "title": "Melee Tomato in Kitchens",
+          "body": "",
+          "order": 240
+        },
+        {
+          "id": "step-p8z44ymz9pk",
+          "title": "Kill Tomato Zombie in Staging Area",
+          "body": "",
+          "order": 250
+        },
+        {
+          "id": "step-nk9jc6gzg93",
+          "title": "Kill the Merchant",
+          "body": "",
+          "order": 260
+        },
+        {
+          "id": "step-nq9en8izu4i",
+          "title": "Throw 3 Decoys at 3 Windows",
+          "body": "",
+          "order": 270
+        },
+        {
+          "id": "step-255ns6q07kv",
+          "title": "Kill the Noble with his own grenades",
+          "body": "",
+          "order": 280
+        },
+        {
+          "id": "step-xgxo58n0rzv",
+          "title": "Deliver the Evidence to the Meditation Room",
+          "body": "",
+          "order": 290
+        },
+        {
+          "id": "step-dfx0sxz43k7",
+          "title": "Pickup Empty Pouch",
+          "body": "Shoot a charged shot of the wonder weapon above the ammo box in the Training Area on the broken beam jutting outward.",
+          "order": 300
         },
         {
           "id": "step-o32r07c7yfa",
           "title": "Fill the Pouch",
           "body": "Stand inside of volcanic ash spewed up from fissures that randomly spawn in. Stand inside for around 1 Minute.",
           "warn": "You must have the empty pouch before this step",
-          "order": 160
+          "order": 310,
+          "tip": "Does not affect other steps, can do at same time"
+        },
+        {
+          "id": "step-2vh0ft86g76",
+          "title": "Pickup Monkshood Bud",
+          "body": "Pickup the Monkshood Bud in the Flower Garden next to one of the broken bridges, to the right hand side of the workstation.",
+          "tip": "Can be picked up anytime",
+          "order": 320
         },
         {
           "id": "step-gknh3nz8vh8",
           "title": "Plant the Bud in Tenshu Entrance",
           "body": "Place the bud in the flowerpot to the left hand side of the Tenshu Entrance.",
-          "order": 170
+          "order": 330
         },
         {
           "id": "step-hwe7gfgb3k2",
           "title": "Melee a Cherry Blossom Tree and Upgrade the plant",
           "body": "Melee any Cherry Blossom on the map until you are overhealed. Head back to the plant and run in circles until a tornado appears, this will upgrade the plant and allow you to pick it up.",
-          "order": 180
+          "order": 340
         },
         {
           "id": "step-0ltk3w3c4uj",
           "title": "Pickup Plum Pit",
           "body": "Head over and look for a small basket of green fruit in the Kitchen Area. Melee them until they drop one of the green fruits on the ground. Jump on-top of the Plum that falls 3 times and pickup the pit.",
-          "order": 190
+          "order": 350
         },
         {
           "id": "step-c3lrdcag6o9",
           "title": "Pickup Pestle",
           "body": "Head to the storage Rooms and locate the Scroll Puzzle. interact with the puzzle either with melee or shooting. Push all the scrolls into the wall to win the puzzle and pickup the pestle and note",
-          "order": 200
+          "order": 360
         },
         {
           "id": "step-sfor9t5k0yg",
           "title": "Feed zombie souls to Pestle and Mortar in Kitchen",
           "body": "Head to the Kitchen and place the Pestle into the mortar cup. Using a gun with brainrot or using charged up wonderweapon shots fill up the mortar with zombie souls until the pestle turns blue. Interact with this and the a small cutscene will play.",
           "warn": "Have to use either brainrot or charged up wonder weapon shot",
-          "order": 210
+          "order": 370
         },
         {
           "id": "step-ws6lo2jphq3",
           "title": "Pickup Pufferfish",
           "body": "Once the cutscene is done a small cuboard door will open up close to the mortar in the Kitchen. Pickup the Pufferfish inside.",
-          "order": 220
-        },
-        {
-          "id": "step-ffsq7vqu5fs",
-          "title": "Light The Lanterns",
-          "body": ""
-        },
-        {
-          "id": "step-jt4dlgwuiy1",
-          "title": "Interact With Ghost",
-          "body": ""
-        },
-        {
-          "id": "step-leosfjyutmx",
-          "title": "Pickup Fox Mask",
-          "body": ""
-        },
-        {
-          "id": "step-mxxjmqhv765",
-          "title": "Play Simon Says",
-          "body": ""
-        },
-        {
-          "id": "step-33tk351vp7c",
-          "title": "Follow the Mask and Shoot down the mask and collect evidence",
-          "body": ""
-        },
-        {
-          "id": "step-fciw7k9wlnc",
-          "title": "Deliver all Evidence so far into the Meditation Room",
-          "body": ""
-        },
-        {
-          "id": "step-6dn8y3px4ok",
-          "title": "Collect the Coin Purse",
-          "body": ""
-        },
-        {
-          "id": "step-jqf5egrxh0k",
-          "title": "Interact with Coin purse and water 3 Plants in Flower Garden",
-          "body": ""
-        },
-        {
-          "id": "step-xxh1xbixtqt",
-          "title": "Kill the Gardener",
-          "body": ""
-        },
-        {
-          "id": "step-2nnpbb2yajv",
-          "title": "Melee Tomato in Kitchens",
-          "body": ""
-        },
-        {
-          "id": "step-p8z44ymz9pk",
-          "title": "Kill Tomato Zombie in Staging Area",
-          "body": ""
-        },
-        {
-          "id": "step-nk9jc6gzg93",
-          "title": "Kill the Merchant",
-          "body": ""
-        },
-        {
-          "id": "step-nq9en8izu4i",
-          "title": "Throw 3 Decoys at 3 Windows",
-          "body": ""
-        },
-        {
-          "id": "step-255ns6q07kv",
-          "title": "Kill the Noble with his own grenades",
-          "body": ""
-        },
-        {
-          "id": "step-xgxo58n0rzv",
-          "title": "Deliver the Evidence to the Meditation Room",
-          "body": ""
+          "order": 380
         },
         {
           "id": "step-qag3x5f0u60",
           "title": "Deliver the Evidence to the Meditation Room",
-          "body": ""
+          "body": "",
+          "order": 390
         },
         {
           "id": "step-q5m0kcx1tjx",
           "title": "Pickup Sake Shards in 3rd Painting",
-          "body": ""
+          "body": "",
+          "order": 400
         },
         {
           "id": "step-dhw1pmx2e8p",
           "title": "Repair Sake Cup in Tea Garden",
           "body": "",
-          "warn": "Progress Round to Pickup"
+          "warn": "Progress Round to Pickup",
+          "order": 410
         },
         {
           "id": "step-s5t1qvg2rhv",
           "title": "Place Sake cup in 3 Areas",
-          "body": ""
+          "body": "",
+          "order": 420
         },
         {
           "id": "step-6t8ieek3452",
           "title": "Kill the Hellhound",
-          "body": ""
+          "body": "",
+          "order": 430
         },
         {
           "id": "step-xn4qd2r3d0q",
           "title": "Collect the Tea Whisk",
-          "body": ""
-        },
-        {
-          "id": "step-jov4tzh3lv6",
-          "title": "Deliver all Evidence so far into the Meditation Room",
-          "body": ""
+          "body": "",
+          "order": 440
         },
         {
           "id": "step-9id3o2g53vm",
           "title": "Collect Small Statue in Lava",
           "body": "",
-          "warn": "Lava has to be cooled down in rock formation"
+          "warn": "Lava has to be cooled down in rock formation",
+          "order": 450
+        },
+        {
+          "id": "step-jov4tzh3lv6",
+          "title": "Deliver all Evidence so far into the Meditation Room",
+          "body": "",
+          "order": 460
         },
         {
           "id": "step-goqvh0r6oh4",
           "title": "Interact with Clock",
           "body": "Near PHD there is a small clock, interact with it and memorise the 4 numbers it flashes.",
-          "warn": "Next round will be assault round"
+          "warn": "Next round will be assault round",
+          "order": 470
         },
         {
           "id": "step-uw8ark072dq",
           "title": "Match flags to symbols",
-          "body": ""
+          "body": "",
+          "order": 480
         },
         {
           "id": "step-jjfngmf7jcb",
           "title": "Collect Crest Medallion",
-          "body": ""
+          "body": "",
+          "order": 490
+        },
+        {
+          "id": "step-3mbjs3358u1",
+          "title": "Deliver all Evidence so far into the Meditation Room",
+          "body": "",
+          "order": 500
         },
         {
           "id": "step-almk1z2889q",
           "title": "1st Evidence",
-          "body": "Always Antique Comb"
+          "body": "Always Antique Comb",
+          "order": 510
         },
         {
           "id": "step-xwi8abn8run",
           "title": "2nd Evidence",
-          "body": "Next, you'll need to figure out the identity of the accomplice. To do this, activate all Ghostly Riflemen Traps on the map until a blue ghost of one of the riflemen appears (near any of the traps). Listen to what they have to say to figure out who the accomplice was.\n\nThe ghost will mention one of the following: Gardener, Merchant, or Courtier. The first two are refer to their elite counterparts that you fought earlier. The Courtier refers to the Noble."
+          "body": "Next, you'll need to figure out the identity of the accomplice. To do this, activate all Ghostly Riflemen Traps on the map until a blue ghost of one of the riflemen appears (near any of the traps). Listen to what they have to say to figure out who the accomplice was.\n\nThe ghost will mention one of the following: Gardener, Merchant, or Courtier. The first two are refer to their elite counterparts that you fought earlier. The Courtier refers to the Noble.",
+          "order": 520
         },
         {
           "id": "step-n44158a99w1",
           "title": "3rd Evidence",
-          "body": "Head over to the evidence wall and re-read the Death Records note that you got earlier. The type of poison used will depend on what the doctor wrote as the cause of death:\n　① Pufferfish: \"...contaminated or noxious food and showed signs of emesis.\"\n　② Plum Pit: \"...contaminated or noxious plant.\"\n　③ Monkshood Flower: \"...showed evidence of paralysis\"\n\nOnce you've figured out the type of Poison used, pick up the right evidence item then place it in front of the 3rd Portrait."
+          "body": "Head over to the evidence wall and re-read the Death Records note that you got earlier. The type of poison used will depend on what the doctor wrote as the cause of death:\n　① Pufferfish: \"...contaminated or noxious food and showed signs of emesis.\"\n　② Plum Pit: \"...contaminated or noxious plant.\"\n　③ Monkshood Flower: \"...showed evidence of paralysis\"\n\nOnce you've figured out the type of Poison used, pick up the right evidence item then place it in front of the 3rd Portrait.",
+          "order": 530
         },
         {
           "id": "step-elmfyhua1f7",
           "title": "4th Evidence",
-          "body": "The 4th Portrait indicates where the Shogun ingested the poison. To determine which evidence item to place, refer to the guide below:\n　① Koi (Fish) Painting: Tea Whisk\n　② Mountain Painting: Horse Statuette\n　③ Bird Painting: Calligraphy Brush"
+          "body": "The 4th Portrait indicates where the Shogun ingested the poison. To determine which evidence item to place, refer to the guide below:\n　① Koi (Fish) Painting: Tea Whisk\n　② Mountain Painting: Horse Statuette\n　③ Bird Painting: Calligraphy Brush",
+          "order": 540
         },
         {
           "id": "step-wj6ush8ahm1",
           "title": "5th Evidence",
-          "body": "Always Crest Medallion"
+          "body": "Always Crest Medallion",
+          "order": 550
         },
         {
           "id": "step-asp34mzm7sd",
           "title": "Time of Death evidence",
-          "body": "Since you now know what Poison was used, read the Known Toxins note to figure out the time of poisoning.\n　① Pufferfish: 3 hours\n　② Plum Pit: 4 hours\n　③ Monkshood Flower: 2 hours\n\nNext, re-read the Death Records to determine the time of death. The time will be indicated by an animal (e.g., Hour of the Boar).\n\nWith the poison's activation time and time of death figured out, head over to the Zodiac Clock beside the 1st Portrait. Set it to the the correct time indicating when the Shogun was poisoned.\n\nTo make it easy, set the Zodiac Clock to match the time of death (e.g., have the dial point to the Boar icon if the Hour of the Boar was the time of death). Then, subtract 2/3/4 places counter-clockwise depending on the poison used."
-        },
-        {
-          "id": "step-958on7bptpq",
-          "title": "Defeat Onryo Mini-Boss",
-          "body": ""
+          "body": "Since you now know what Poison was used, read the Known Toxins note to figure out the time of poisoning.\n　① Pufferfish: 3 hours\n　② Plum Pit: 4 hours\n　③ Monkshood Flower: 2 hours\n\nNext, re-read the Death Records to determine the time of death. The time will be indicated by an animal (e.g., Hour of the Boar).\n\nWith the poison's activation time and time of death figured out, head over to the Zodiac Clock beside the 1st Portrait. Set it to the the correct time indicating when the Shogun was poisoned.\n\nTo make it easy, set the Zodiac Clock to match the time of death (e.g., have the dial point to the Boar icon if the Hour of the Boar was the time of death). Then, subtract 2/3/4 places counter-clockwise depending on the poison used.",
+          "order": 560
         },
         {
           "id": "step-ko3tt08qph7",
           "title": "Interact with the Incense Burners",
-          "body": ""
+          "body": "",
+          "order": 570
+        },
+        {
+          "id": "step-958on7bptpq",
+          "title": "Defeat Onryo Mini-Boss",
+          "body": "",
+          "order": 580
         },
         {
           "id": "step-vswq6nurj9q",
           "title": "Use the Fast Travel at Pack a Punch to travel to Boss Fight",
-          "body": ""
+          "body": "",
+          "order": 590
         }
       ],
       "order": 2
