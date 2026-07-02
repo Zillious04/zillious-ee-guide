@@ -405,8 +405,15 @@
           "body": "Head to the Kitchen and place the Pestle into the mortar cup. Using a gun with brainrot or using charged up wonderweapon shots fill up the mortar with zombie souls until the pestle turns blue. Interact with this and the a small cutscene will play.",
           "warn": "Have to use either brainrot or charged up wonder weapon shot",
           "order": 210
+        },
+        {
+          "id": "step-ws6lo2jphq3",
+          "title": "Pickup Pufferfish",
+          "body": "Once the cutscene is done a small cuboard door will open up close to the mortar in the Kitchen. Pickup the Pufferfish inside.",
+          "order": 220
         }
-      ]
+      ],
+      "order": 2
     }
   ],
   "games": [
